@@ -1,0 +1,10 @@
+TP: 477 FP: 12010
+FN: 44 TN: 18691
+test Precision: 0.0382 Recall: 0.9155
+base Precision: 0.0294 Recall: 0.8972
+test F1: 0.0733 base F1: 0.0569
+**************************************************
+test loss: 0.073932 metric: 0.820866
+**************************************************
+
+Process finished with exit code 0
